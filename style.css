@@ -162,3 +162,9 @@ body {
       transform: scaleX(0.85);
     }
   }
+
+  @media (max-width: 600px) {
+    .shadow {
+      display: none;
+    }
+  }
